@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pathum Dewapura</h1>
-<h3 align="center">Mechanical Engineer | Machine Learning Enthusiast</h3>
-
+<h3 align="center">Systems Engineer | Design Engineer</h3> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pathumdewapura&label=Profile%20views&color=0e75b6&style=flat" alt="pathumdewapura" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Basics**
-
-- 🌱 I’m currently learning **Java**
+- 👨‍💻 Pursuing my **MSc in Computer Science, specializing in Cloud Computing**
+- 🔭 Exploring **Cloud-Native architectures**, **AI agents**, **Fintech** and **serverless computing**  
+- 🌱 Learning **AI** and expanding knowledge in **Cloud Computing and DevOps**  
+- ⚡ Interested in projects that combine **fintech, cloud technologies, and AI**  
 
 - 📫 How to reach me **pankajadewapura@gmail.com**
 
